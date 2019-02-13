@@ -1,7 +1,7 @@
 version: '2'
 services:
   img:
-    image: ankurmangal/ubuntu_template:v2
+    image: ankitjustin1997/ubuntu_template:version1
   webapp:
     build: . 
     ports:
