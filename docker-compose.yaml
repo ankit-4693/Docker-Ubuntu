@@ -6,4 +6,4 @@ services:
     build: . 
     ports:
       - "1111:1111"
-image: ankurmangal/ubuntu_template:v2
+image: ankitjustin1997/ubuntu_template:version1
